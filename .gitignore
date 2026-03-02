@@ -1,0 +1,15 @@
+# Large sequencing data
+fastq/*.fastq.gz
+fastq/*.bam
+fastq/*.bam.bai
+fastq/*.bw
+
+# Reference genome
+reference/
+
+# R workspace
+.RData
+.Rhistory
+
+# macOS
+.DS_Store
