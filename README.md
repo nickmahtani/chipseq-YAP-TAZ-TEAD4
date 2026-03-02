@@ -8,11 +8,11 @@ Reproducing Figure 1 from [Zanconato et al. 2018](https://pmc.ncbi.nlm.nih.gov/a
 
 | | Paper | My reproduction |
 |:---:|:---:|:---:|
-| **Fig 1a** | ![Paper 1a](figures/paper_fig1a.jpeg) | ![My 1a](figures/venn_YAP_TAZ.png) |
+| **Fig 1a** | <img src="figures/paper_fig1a.jpeg" width="300"> | <img src="figures/venn_YAP_TAZ.png" width="300"> |
 | YAP vs TAZ overlap | 7,107 peaks | 7,164 peaks |
-| **Fig 1b** | ![Paper 1b](figures/paper_fig1b.jpeg) | ![My 1b](figures/venn_YAP_TAZ_TEAD4.png) |
+| **Fig 1b** | <img src="figures/paper_fig1b.jpeg" width="300"> | <img src="figures/venn_YAP_TAZ_TEAD4.png" width="300"> |
 | YAP/TAZ vs TEAD4 overlap | 5,522 peaks | 5,965 peaks |
-| **Fig 1c** | ![Paper 1c](figures/paper_fig1c.jpeg) | ![My 1c](figures/summit_distance.png) |
+| **Fig 1c** | <img src="figures/paper_fig1c.jpeg" width="300"> | <img src="figures/summit_distance.png" width="300"> |
 | TEAD4 summit distance to TAZ peaks | Sharp peak at 0 bp | Sharp peak at 0 bp |
 
 ## Pipeline
