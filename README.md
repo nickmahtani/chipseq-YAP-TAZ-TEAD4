@@ -1,6 +1,6 @@
 # ChIP-seq Analysis of YAP/TAZ/TEAD4 Co-binding
 
-Reproducing Figure 1 from [Zanconato et al. 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6186417/) using ChIP-seq data for the Hippo pathway effectors YAP, TAZ, and TEAD4. Based on Tommy Tang's [ChIP-seq tutorial](https://www.youtube.com/@crazyhottommy).
+Reproducing Figure 1 from [Zanconato et al. 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6186417/) using ChIP-seq data for the Hippo pathway effectors YAP, TAZ, and TEAD4. Based on Tommy Tang's [Reproduce Genomics Paper Figures](https://crazyhottommy.github.io/reproduce_genomics_paper_figures/) tutorial.
 
 ## Results
 
