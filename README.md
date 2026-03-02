@@ -4,13 +4,18 @@ Reproducing Figure 1 from [Zanconato et al. 2018](https://pmc.ncbi.nlm.nih.gov/a
 
 ## Results
 
-**YAP/TAZ and TEAD4 peak overlap** — 5,965 shared binding sites:
+### Paper (Fig 1a–c) vs My Reproduction
 
-![Venn diagram](figures/venn_YAP_TAZ_TEAD4.png)
+| Paper | My reproduction |
+|:---:|:---:|
+| ![Paper Figure 1](figures/paper_figure1.jpg) | ![Venn diagram](figures/venn_YAP_TAZ_TEAD4.png) |
+| Fig 1b: YAP/TAZ–TEAD4 overlap (5,522 peaks) | My result: 5,965 shared peaks |
 
-**TEAD4 summit distance relative to TAZ peaks** — sharp enrichment at 0 bp confirms co-localization:
+| Paper (Fig 1c) | My reproduction |
+|:---:|:---:|
+| TEAD4 summit density centered on TAZ peaks | ![Summit distance](figures/summit_distance.png) |
 
-![Summit distance](figures/summit_distance.png)
+Peak counts and summit distance profile closely match the published results.
 
 ## Pipeline
 
