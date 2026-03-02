@@ -8,7 +8,7 @@ Reproducing Figure 1 from [Zanconato et al. 2018](https://pmc.ncbi.nlm.nih.gov/a
 
 | Panel | Paper | My reproduction |
 |:---:|:---:|:---:|
-| **Fig 1a** — YAP vs TAZ overlap (paper: 7,107) | ![Paper Figure 1](figures/paper_figure1.jpg) | ![YAP vs TAZ Venn](figures/venn_YAP_TAZ.png) |
+| **Fig 1a** — YAP vs TAZ overlap (paper: 7,107) | ![Paper Figure 1](figures/paper_figure1.jpeg) | ![YAP vs TAZ Venn](figures/venn_YAP_TAZ.png) |
 | **Fig 1b** — YAP/TAZ vs TEAD4 overlap (paper: 5,522) | | ![YAP/TAZ vs TEAD4 Venn](figures/venn_YAP_TAZ_TEAD4.png) |
 | **Fig 1c** — TEAD4 summit distance to TAZ peaks | | ![Summit distance](figures/summit_distance.png) |
 
